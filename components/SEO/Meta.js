@@ -5,14 +5,14 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-            <title>Vivek Patel Portfolio - Computer Engineering Student</title>
+            <title>Arif Noer Wahidin - SEO Specialist and Web Developer</title>
             <meta charSet="utf-8" />
-            <meta name="title" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta name="title" content="Arif Noer Wahidin - SEO Specialist and Web Developer" />
             <meta name="description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="author" content="Vivek Patel (vivek9patel)" />
+                content="I am an SEO Specialist and Web Developer. I have the ability to analyze various types of data and turn them into effective SEO strategies and solutions." />
+            <meta name="author" content="Arif Noer Wahidin" />
             <meta name="keywords"
-                content="vivek9patel, vivek9patel's portfolio, vivek9patel linux, ubuntu portfolio, vivek patel protfolio,vivek patel computer, vivek patel, vivek ubuntu, vivek patel ubuntu portfolio" />
+                content="Arif Noer Wahidin, SEO Specialist, Web Developer, Unix Portfolio, Ubuntu Portfolio" />
             <meta name="robots" content="index, follow" />
             <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
             <meta name="language" content="English" />
@@ -22,26 +22,26 @@ export default function Meta() {
             /* Search Engine */
             <meta name="image" content="images/logos/fevicon.png" />
             /* Schema.org for Google */
-            <meta itemProp="name" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta itemProp="name" content="Arif Noer Wahidin - SEO Specialist and Web Developer" />
             <meta itemProp="description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="I am an SEO Specialist and Web Developer. I have the ability to analyze various types of data and turn them into effective SEO strategies and solutions." />
             <meta itemProp="image" content="images/logos/fevicon.png" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:title" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta name="twitter:title" content="Arif Noer Wahidin - SEO Specialist and Web Developer" />
             <meta name="twitter:description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="twitter:site" content="vivek9patel" />
-            <meta name="twitter:creator" content="vivek9patel" />
+                content="I am an SEO Specialist and Web Developer. I have the ability to analyze various types of data and turn them into effective SEO strategies and solutions." />
+            <meta name="twitter:site" content="@panduancode1" />
+            <meta name="twitter:creator" content="@panduancode1" />
             <meta name="twitter:image:src" content="images/logos/logo_1024.png" />
             /* Open Graph general (Facebook, Pinterest & Google+) */
-            <meta name="og:title" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta name="og:title" content="Arif Noer Wahidin - SEO Specialist and Web Developer" />
             <meta name="og:description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="I am an SEO Specialist and Web Developer. I have the ability to analyze various types of data and turn them into effective SEO strategies and solutions." />
             <meta name="og:image" content="images/logos/logo_1200.png" />
-            <meta name="og:url" content="http://vivek9patel.github.io/" />
-            <meta name="og:site_name" content="Vivek Patel Personal Portfolio" />
-            <meta name="og:locale" content="en_IN" />
+            <meta name="og:url" content="https://portfolio.panduancode.com" />
+            <meta name="og:site_name" content="Arif Noer Wahidin - SEO Specialist and Web Developer" />
+            <meta name="og:locale" content="en_ID" />
             <meta name="og:type" content="website" />
 
             <link rel="icon" href="images/logos/fevicon.svg" />

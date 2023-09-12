@@ -2,7 +2,7 @@
   "name": "Arif-Noer-Wahidin",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://minifier.panduancode.com/next-ubuntu/",
+  "homepage": "https://portfolio.panduancode.com",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
