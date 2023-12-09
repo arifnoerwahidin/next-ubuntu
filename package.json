@@ -2,7 +2,7 @@
   "name": "Arif-Noer-Wahidin",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://portfolio.panduancode.com",
+  "homepage": "https://banjar-code.github.io/next-ubuntu/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
